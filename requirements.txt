@@ -1,0 +1,4 @@
+python==3.12.6
+Django==5.2
+
+To run the server: python manage.py runserver
